@@ -1,2 +1,2 @@
 # Langgraph
-Langgraph chatbot
+Langgraph basic chatbot with tools
